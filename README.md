@@ -6,4 +6,4 @@
 
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![Java](https://img.shields.io/badge/Java-green)
-#3776AB
+![Python](https://img.shields.io/badge/-Python-blu)
