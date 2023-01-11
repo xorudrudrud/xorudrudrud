@@ -4,6 +4,9 @@
 
 <hr>
 
-![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
+
 ![Java](https://img.shields.io/badge/Java-green)
 ![Python](https://img.shields.io/badge/-Python-blu)
+![Spring](https://img.shields.io/badge/Spring-green)
+![C](https://img.shields.io/badge/-C-blu)
+
