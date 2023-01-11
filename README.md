@@ -9,4 +9,4 @@
 ![Python](https://img.shields.io/badge/-Python-blu)
 ![Spring](https://img.shields.io/badge/Spring-green)
 ![C](https://img.shields.io/badge/-C-blu)
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=spring.svg&logoColor=black">
